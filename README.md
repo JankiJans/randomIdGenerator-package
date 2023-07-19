@@ -1,0 +1,1 @@
+https://www.npmjs.com/package/@jano12/randomid-app-generator
